@@ -11,7 +11,7 @@ This is my first time working with data, so I found some simple dataset on Kaggl
 
 ## Table of Contents
 
-  - [Goal?](#Goal)
+  - [Goal](#Goal)
   - [Data Source](#dataset)
   - [Methods](#methods)
   - [Language or Platform Used](#language-or-platform-used)
