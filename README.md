@@ -4,7 +4,7 @@
 
 # Introduction
 
-This is my first time working with data, so I found some simple dataset on Kaggle so I can practice some simple concepts. This time I made an analysis of the Netflix Dataset with the programming language R. The dataset is a public dataset made available through Prasert Kanawattanachai on Kaggle, it contains the top titles on Netflix in US from 2020-04-01 to 2022-03-11.  
+This is my first time working with data, so I found some simple dataset on Kaggle so I can practice some simple concepts. This time I made an analysis of the Netflix Dataset with the programming language R. The dataset is a public dataset made available through Prasert Kanawattanachai on Kaggle, it contains the most popular movies and tvshows aired on US Netflix in US between 2020-04-01 and 2022-03-11.  
 
 ## Author
 - [@TacoBadger](https://github.com/TacoBadger)
