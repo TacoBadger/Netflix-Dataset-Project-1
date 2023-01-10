@@ -2,11 +2,11 @@
 
 ![](https://github.com/TacoBadger/NetflixDataset/blob/main/dataset.png?raw=true)
 
-# Analysis of the Netflix Top 10 Dataset in Kaggle.
+# Introduction
 
-Worked with the dataset to find the Top titles on Netflix in US from 2020-04-01 to 2022-03-11. The dataset is a public dataset made available through Prasert Kanawattanachai on Kaggle. Please do take note that this document is for practice purposes only and it does not include any marketing of the titles involved.
+This is my first time working with data, so I found some simple dataset on Kaggle so I can practice some simple concepts. This time I made an analysis of the Netflix Dataset. The dataset is a public dataset made available through Prasert Kanawattanachai on Kaggle, it contains the top titles on Netflix in US from 2020-04-01 to 2022-03-11.  
 
-## Authors
+## Author
 - [@TacoBadger](https://github.com/TacoBadger)
 
 ## Table of Contents
@@ -31,7 +31,6 @@ Worked with the dataset to find the Top titles on Netflix in US from 2020-04-01 
 - Top ten Movies
 - Top six Stand-Up Comedy
 
-The time frame of the data is from 2020-04-01 to 2022-03-11. The dataset is a public dataset made available through Prasert Kanawattanachai on Kaggle.
 
 ## Dataset
 - [Kaggle Netflix Top 10](https://www.kaggle.com/datasets/prasertk/netflix-daily-top-10-in-us)
