@@ -4,7 +4,7 @@
 
 # Introduction
 
-This is my first time working with data, so I found some simple dataset on Kaggle so I can practice some simple concepts. This time I made an analysis of the Netflix Dataset. The dataset is a public dataset made available through Prasert Kanawattanachai on Kaggle, it contains the top titles on Netflix in US from 2020-04-01 to 2022-03-11.  
+This is my first time working with data, so I found some simple dataset on Kaggle so I can practice some simple concepts. This time I made an analysis of the Netflix Dataset with the programming language R. The dataset is a public dataset made available through Prasert Kanawattanachai on Kaggle, it contains the top titles on Netflix in US from 2020-04-01 to 2022-03-11.  
 
 ## Author
 - [@TacoBadger](https://github.com/TacoBadger)
@@ -21,7 +21,7 @@ This is my first time working with data, so I found some simple dataset on Kaggl
   - [What is next?](#what-is-next)
  
 
-## What I want to find out?
+## What I want to find out is:
 - Number of titles
 - Top ten titles
 - Top ten least titles
@@ -33,10 +33,10 @@ This is my first time working with data, so I found some simple dataset on Kaggl
 
 
 ## Dataset
+You can check out the dataset here below:
 - [Kaggle Netflix Top 10](https://www.kaggle.com/datasets/prasertk/netflix-daily-top-10-in-us)
 
 It includes:
--  As Of: the snapshot date for each datapoint.
 - Rank: A 1-10 scale representing the streaming time of each show for a given date.
 - Year to Date Rank: A 1-10 scale representing the overall rank relative to all other shows that year (these rankings shift around quite a lot as this is recalculated by the day).
 - Last Week Rank: A 1-10 scale showing the overall rank for the prior week.
@@ -47,7 +47,8 @@ It includes:
 - Viewership Score: This statistic was reworked in late 2021 and was not used in the analysis.
 
 ## Methods
-- [Ask](#ask) - Ask effective questions
+I will use the framework I learned in the Google Data Anytics course on coursera to analyze the data. The framework contained the following pointers:
+1. Ask (#ask) - Ask effective questions
 - [Prepare](#prepare) - Verify data's integrity, Check data credibility and reliability, Check data types and Merge datasets
 - [Process](#process) - Clean, Remove and Transform data and Document cleaning processes and results
 - [Analyze](#analyze) - Identify patterns and  Draw conclusions
