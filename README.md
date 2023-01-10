@@ -273,7 +273,7 @@ You can copy and edit the notebook to explore your own analysis of the data.
 - [Notebook](https://www.kaggle.com/code/cryptocosy/netflix-dataset)
 
 ## What is next?
-Thank you for reading my first case study. To help me improve more of my basic data analytical skills I will list down a few pointers on what's next for my other projects.
+Thank you for reading my first case study. To help me improve my basic data analytical skills, I will list down a few pointers I can work on going forward.
 
 - I could have improved my data story telling based on my target audience
 - I could have added a more detailed explanation of the codes and visuals
