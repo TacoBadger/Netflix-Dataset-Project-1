@@ -11,7 +11,7 @@ This is my first time working with data, so I found some simple dataset on Kaggl
 
 ## Table of Contents
 
-  - [What I want to find out?](#what-i-want-to-find-out)
+  - [Goal?](#Goal)
   - [Data Source](#dataset)
   - [Methods](#methods)
   - [Language or Platform Used](#language-or-platform-used)
@@ -21,10 +21,10 @@ This is my first time working with data, so I found some simple dataset on Kaggl
   - [What is next?](#what-is-next)
  
 
-## What I want to find out is:
-I don't want to make it more complicated while I learn, so I will just ask very basic questions, so I can improve my skills in R.
+## Goal:
+I don't want to make it more complicated while I learn, so I will just ask a few very basic questions, so I can improve my skills in R.
 
-Check out the questions below.
+Check out the questions in the ASK section.
 
 
 ## Dataset
