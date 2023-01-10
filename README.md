@@ -22,14 +22,9 @@ This is my first time working with data, so I found some simple dataset on Kaggl
  
 
 ## What I want to find out is:
-- Number of titles
-- Top ten titles
-- Top ten least titles
-- How many of them were Netflix Exclusive and Not
-- Most watched type
-- Top ten TV Shows
-- Top ten Movies
-- Top six Stand-Up Comedy
+I don't want to make it more complicated while I learn, so I will just ask very basic questions, so I can improve my skills in R.
+
+Check out the questions below.
 
 
 ## Dataset
@@ -48,15 +43,15 @@ It includes:
 
 ## Methods
 I will use the framework I learned in the Google Data Anytics course on coursera to analyze the data. The framework contained the following pointers:
-1. Ask (#ask) - Ask effective questions
-- [Prepare](#prepare) - Verify data's integrity, Check data credibility and reliability, Check data types and Merge datasets
-- [Process](#process) - Clean, Remove and Transform data and Document cleaning processes and results
-- [Analyze](#analyze) - Identify patterns and  Draw conclusions
-- [Share](#visual-results) - Create effective visuals
-- [Act](#key-findings) - Answer your questions and solve problems
+1. Ask - Ask effective questions
+2. Prepare - Verify data's integrity, Check data credibility and reliability, Check data types and Merge datasets
+3. Process - Clean, Remove and Transform data and Document cleaning processes and results
+4. Analyze - Identify patterns and  Draw conclusions
+5. Share - Create effective visuals
+6. Act - Answer your questions and solve problems
 
 ## ASK
-We took a look at the raw data set mentioned and come up with the questions I want to answer. This can be your own questions based on your interest about the data.
+We took a look at the raw data set mentioned and come up with the questions I want to answer. 
 
 Questions:
 - How many titles are there in the dataset?
@@ -278,12 +273,11 @@ You can copy and edit the notebook to explore your own analysis of the data.
 - [Notebook](https://www.kaggle.com/code/cryptocosy/netflix-dataset)
 
 ## What is next?
-Thank you for reading my doccumentation about my Netflix Dataset. To help me improve more of my basic data analytical skills I will list down a few pointers on what's next for my other projects.
+Thank you for reading my first case study. To help me improve more of my basic data analytical skills I will list down a few pointers on what's next for my other projects.
 
-- I could have improved my data story telling or I could have made a more compelling narrative by including all detailed and relevant explanation in my documentation, I should know what my target audience is and start telling my data from there. I should also be including basic terms especially for beginners reading my documentation.
-- I could have improved my keypointers that can lead the audience to understand more about my data analysis. I could have make use of highlighting all important keywords and relevant data for our target audience.
-- A more detailed explanation of the codes used and functions. We can use a small summary for our target audience.
-- A more effective way of using visuals where our target audience can easily understand it. Always make sure you choose the proper visual to express your dataset. 
--  We will also start using SQL for our next dataset practice which involves more functions and commands that is more complex than in RStudio. We will specifically used DB Browser SQLite for our next ptractice, DB Browser works similar to SQL in some functions and commands so let us learn about it together in the next dataset. 
+- I could have improved my data story telling based on my target audience
+- I could have added a more detailed explanation of the codes and visuals
 
-See you on our next project!
+In my next case study, I will start using SQLite with the DB Browser.
+
+See you soon!
